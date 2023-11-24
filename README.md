@@ -1,1 +1,1 @@
-# Bengali_Sentiment_Analysis
+# Bangla_Sentiment_Analysis
